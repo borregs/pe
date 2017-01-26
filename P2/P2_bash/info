@@ -1,0 +1,6 @@
+Este programa en C fue modifcado para funcionar corriendo bash scrypts mediante el comando system("");
+Este programa no funcionara en windows o mac.
+los scrypts no se incluyen en el makefile como dependencia o archivo mas si deben compartir carpeta para funcionar.
+
+bash scripting help : http://stackoverflow.com/questions/10929453/read-a-file-line-by-line-assigning-the-value-to-a-variable
+
