@@ -8,6 +8,6 @@ propongo q este semestre hagamos una rama por cada dia de las practicas y las te
 ordinarias. 
 
 
-# Este repositorio es privado, cualquiera con el link lo puede clonar mas por el momento los usuarios con permiso de alterar esta rama del repositorio son: jcgon, borregs 
+# Este repositorio es publico, cualquiera con el link lo puede clonar mas por el momento los usuarios con permiso de alterar esta rama del repositorio son: jcgon, borregs 
 # Todo archivo compilable en el repositorio debe incluir un Makefile.
 # Todo archivo debe tener documentacion pertinente al mismo.
