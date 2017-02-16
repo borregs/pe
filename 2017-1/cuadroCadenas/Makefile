@@ -1,10 +1,11 @@
 CC=gcc
-CFLAGS=-lncurses -std=c99
+CFLAGS=-std=c99 -t
+LFLAGS=-lncurses
 OUT=enmarcaCadena
 
 
 $(OUT): main.c
-	cc $(CFLAGS) $^ -o $@
+	$(CC) -o $@ $^ $(CFLAGS) $(LFLAGS)
 
 clean:
 	rm *.o *~ $(OUT)
